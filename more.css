@@ -48,11 +48,11 @@ ul {
 }
 
 .gallery li {
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     margin: 25px;
     float: left;
     overflow: hidden;
     
-    border-radius: 50%;
+    border-radius: 10%;
 }
