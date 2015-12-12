@@ -43,3 +43,22 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.gallery {
+    width: 80%;
+    margin: 30px auto;
+    overflow:hidden;
+}
+
+.img {
+    border: 1px solid #ccc;
+}
+
+.img:hover {
+    border: 1px solid #777;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
