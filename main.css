@@ -1,8 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    word-wrap: break-word;
-    width: 500px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -22,13 +20,14 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 3.5em;
     font-family:'Calisto MT', 'Baskerville', 'Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 2em;
     line-height: 1.4em;
     color: #333;
+    width: 500px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
