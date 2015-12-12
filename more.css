@@ -47,14 +47,12 @@ ul {
     list-style: none;
 }
 
-/*.gallery li {
+.gallery li {
     height: 200px;
     width: 200px;
     margin: 25px;
     float: left;
     overflow: hidden;
     
-    -webkit-border-radius:50%
-    -moz-border-radius:50%
     border-radius: 50%;
 }
