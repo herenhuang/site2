@@ -53,3 +53,15 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+/*gallery*/
+
+.gallery {
+    width: 1000px;
+    margin: 50px auto;
+}
+
+ul {
+    list-style: none;
+}
