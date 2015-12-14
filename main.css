@@ -17,8 +17,9 @@ a {
     color: #999;
 }
 a:hover {
-    font-weight: bold;
+    font-color:"#20B2AA";
 }
+
 h1 {
     font-size: 3em;
     font-family:'Calisto MT', 'Baskerville', 'Serif';
