@@ -17,7 +17,8 @@ a {
     color: #999;
 }
 a:hover, a:active {
-    font-color:"#20B2AA";
+    color:"#20B2AA";
+    
 }
 
 h1 {
