@@ -34,7 +34,7 @@ footer {
     font-size: .8em;
     /*margin-bottom: 130px auto;*/
     position: fixed;
-    bottom: 0;
+    bottom: 20px;
     width: 100%;
 }
 
