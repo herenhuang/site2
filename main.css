@@ -17,7 +17,7 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: bold;
 }
 h1 {
     font-size: 3em;
@@ -34,8 +34,8 @@ footer {
     font-size: .8em;
     /*margin-bottom: 130px auto;*/
     position: relative;
-    bottom: 20px auto;
-    width: 85%;
+    bottom: 5px auto;
+    width: 95%;
 }
 
 ul.posts { 
