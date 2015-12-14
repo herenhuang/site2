@@ -91,7 +91,7 @@ ul {
    padding: 20px;
    position: relative;
    left: 27%;
-   top: 75%; /*set to 110% after this step!*/
+   top: 110%; /*set to 110% after this step!*/
  
    color: white;
    text-align: center;
@@ -106,21 +106,12 @@ ul {
            transition: top 0.5s ease;
 }
 
-
 .gallery li:hover img {
-   margin-left: -150px;
-   margin-top: -150px;
+   margin-left: -90px;
+   margin-top: -90px;
 }
 
 .gallery li:hover p {
-   top: 75%;
+   top: 80%;
 }
 
-.gallery li:hover img {
-   margin-left: -150px;
-   margin-top: -150px;
-}
- 
-.gallery li:hover p {
-   top: 75%;
-}
