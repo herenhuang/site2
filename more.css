@@ -1,9 +1,4 @@
-/*body {
-    margin: 60px auto;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
-}*/
+html, body, .container {height: 100%;}
 
 .container {
     margin-left: auto;
@@ -45,7 +40,11 @@ p {
 
 footer {
     border-top: 1px solid #d5d5d5;
-    margin-bottom: 5px;
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 2em;
+    margin-top: -2em;
 }
 
 ul.posts { 
