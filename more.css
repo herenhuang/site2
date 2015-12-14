@@ -64,3 +64,12 @@ ul.posts li {
 ul {
     list-style: none;
 }
+
+.gallery li {
+    height:300px;
+    width: 200px;
+    margin: 50px;
+    float: left;
+    overflow: hidden;
+    border-radius: 10%;
+}
