@@ -1,6 +1,9 @@
 body {
-    margin: auto;
-    width: 100%;
+    margin: 60px auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    text-align: center;
 }
 
 .wrapper {
