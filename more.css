@@ -1,7 +1,13 @@
-.container {
-    margin: 60px auto;
+body {
+    margin: auto;
     width: 85%;
 }
+
+.wrapper {
+    min-height:100%;
+    position: relative;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -16,43 +22,31 @@ a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
-    text-decoration: underline;
+a:hover, a:active {
+    color:#9933FF;
 }
+
 h1 {
     font-size: 3em;
     font-family:'Calisto MT', 'Baskerville', 'Serif';
 }
-
-div.blurb p {
-    font-size: 2.25em;
+p {
+    font-size: 2.5em;
     line-height: 1em;
     color: #333;
+    width: 550px;
 }
 
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-    margin-bottom: 130px auto;
+    margin-bottom: 5px;
 }
 
-
-/*Gallery*/
-.gallery {
-    width: 1000px;
-    margin: 60px auto;
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
 }
 
-ul {
+ul.posts li {
     list-style: none;
-}
-
-.gallery li {
-    height: 250px;
-    width: 250px;
-    margin: 25px;
-    float: left;
-    overflow: hidden;
-    
-    border-radius: 10%;
 }
