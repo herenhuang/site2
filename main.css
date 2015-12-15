@@ -18,8 +18,12 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-nav a {
+
+a {
     text-decoration: none;
+}
+
+nav a {
     color: #999;
 }
 a:hover, a:active {
