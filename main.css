@@ -30,11 +30,16 @@ h1 {
     font-size: 3em;
     font-family:'Calisto MT', 'Baskerville', 'Serif';
 }
-p, footer {
+p {
     font-size: 2.5em;
     line-height: 1em;
     color: #333;
     width: 550px;
+}
+
+footer {
+    font-size: 2.5em; 
+    line-height: 1em;
 }
 
 ul.posts { 
