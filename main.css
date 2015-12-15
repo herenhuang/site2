@@ -23,6 +23,10 @@ a {
     text-decoration: none;
 }
 
+footer a { 
+    color: #333;
+}
+
 nav a {
     color: #999;
 }
